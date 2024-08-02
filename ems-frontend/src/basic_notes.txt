@@ -1,0 +1,7 @@
+index.html is served to the web browser
+index.html has the path to /src/main.jsx" (cmd+click on App in this file)
+this has an app defined App, which gets rendered from App.jsx
+
+//rfce react functional component export
+//rafce ARROW FUNCTION 
+on_click has a handler function name {}
